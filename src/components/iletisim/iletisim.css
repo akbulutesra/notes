@@ -1,0 +1,13 @@
+.IletisimKutusu {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+}
+
+.BilgiKutusu {
+    float: right;
+    margin-right: 100px;
+    margin-top: 39px;
+    font-size: 24px;
+}
